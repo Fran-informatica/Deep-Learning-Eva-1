@@ -109,7 +109,7 @@ pip install tensorflow numpy pandas scikit-learn plotly jupyter
 
 ### Reproducibilidad
 
-El notebook fija la semilla `SEED = 42` en NumPy y TensorFlow, de modo que los pesos iniciales, el muestreo del subconjunto de datos y el orden de los batches sean —en la medida de lo posible— reproducibles entre ejecuciones. Aun así, ciertas operaciones en GPU pueden introducir pequeñas diferencias no deterministas.
+El notebook fija la semilla `SEED = 42` en NumPy y TensorFlow, de modo que los pesos iniciales, el muestreo del subconjunto de datos y el orden de los batches sean —en la medida de lo posible— reproducibles entre ejecuciones. Aun así, ciertas operaciones en GPU pueden introducir pequeñas diferencias no deterministas a diferencia de la CPU.
 
 ---
 
