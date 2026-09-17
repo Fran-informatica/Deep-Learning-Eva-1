@@ -4,7 +4,7 @@
 
 **Curso:** DLY0100 – Deep Learning
 **Integrantes:** Esteban Pacheco Vega y Francisco Figueroa Donoso
-**Fecha:** *(completar)*
+**Fecha:** 21-09-2026
 
 ---
 
